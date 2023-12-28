@@ -11,4 +11,4 @@
 
 A newbie scientific research organization was founded to accelerate human civilization.
 
-We are finding [Fine-Structure Constant](https://en.wikipedia.org/wiki/Fine-structure_constant#:~:text=In%20physics%2C%20the%20fine%2Dstructure,interaction%20between%20elementary%20charged%20particles.).
+We are finding [Fine-Structure Constant](https://en.wikipedia.org/wiki/Fine-structure_constant#:~:text=In%20physics%2C%20the%20fine%2Dstructure,interaction%20between%20elementary%20charged%20particles.) in life.
