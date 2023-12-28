@@ -9,4 +9,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-A newbie scientific research organization founded to accelerate human civilization
+A newbie scientific research organization was founded to accelerate human civilization.
+
+We are finding [Fine-Structure Constant](https://en.wikipedia.org/wiki/Fine-structure_constant#:~:text=In%20physics%2C%20the%20fine%2Dstructure,interaction%20between%20elementary%20charged%20particles.).
